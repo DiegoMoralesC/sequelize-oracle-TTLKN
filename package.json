@@ -1,6 +1,6 @@
 {
   "author": {
-    "name": "gfi"
+    "name": "SB"
   },
   "bugs": {
     "url": "https://github.com/rmos/sb-sequelize-oracle/issues"
@@ -8,7 +8,7 @@
   "bundleDependencies": false,
   "contributors": [
     {
-      "name": "gfi"
+      "name": "SB-Team"
     }
   ],
   "dependencies": {
@@ -68,7 +68,7 @@
   "name": "sb-sequelize-oracle",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rmos/sb-sequelize-oracle.git"
+    "url": "git+https://github.com/rmos/sbi-sequelize-oracle.git"
   },
   "scripts": {
     "build-docker": "sudo docker-compose build",
