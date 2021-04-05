@@ -1,7 +1,11 @@
-**sb-sequelize-oracle**
+**sbi-sequelize-oracle**
 ===================
 
 This project fork from spider-sequelize-oracle. We just fixed bugs 
+
+  **Note:**
+  ######1.1.7
+  - fix bugs transaction rollback autocommit
 
 > **Note:**
   ######1.1.6
