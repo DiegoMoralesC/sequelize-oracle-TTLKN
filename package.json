@@ -3,7 +3,7 @@
     "name": "SB"
   },
   "bugs": {
-    "url": "https://github.com/rmos/sb-sequelize-oracle/issues"
+    "url": "https://github.com/rmos/sbi-sequelize-oracle/issues"
   },
   "bundleDependencies": false,
   "contributors": [
@@ -52,7 +52,7 @@
   "engines": {
     "node": ">=0.6.21"
   },
-  "homepage": "https://github.com/rmos/sb-sequelize-oracle.git",
+  "homepage": "https://github.com/rmos/sbi-sequelize-oracle.git",
   "keywords": [
     "mysql",
     "sqlite",
@@ -76,5 +76,5 @@
     "test": "make all",
     "test-docker": "sudo docker-compose run sequelize /bin/sh -c \"make all\""
   },
-  "version": "1.1.6"
+  "version": "1.1.7"
 }
