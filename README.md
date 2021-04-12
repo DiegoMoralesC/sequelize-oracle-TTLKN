@@ -3,7 +3,11 @@
 
 This project fork from spider-sequelize-oracle. We just fixed bugs 
 
-  **Note:**
+> **Note:**
+  ######1.1.8
+  - LOG Performance query sequelize
+
+> **Note:**
   ######1.1.7
   - fix bugs transaction rollback autocommit
 
