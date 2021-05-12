@@ -4,8 +4,12 @@
 This project fork from spider-sequelize-oracle. We just fixed bugs 
 
 > **Note:**
+  ######1.1.10
+  - feat reverse autocommit custom control
+
+> **Note:**
   ######1.1.9
-  - fix autocommit custom control
+  - feat autocommit custom control
 
 > **Note:**
   ######1.1.8
