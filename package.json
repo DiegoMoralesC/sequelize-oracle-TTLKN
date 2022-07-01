@@ -68,7 +68,7 @@
     "test": "make all",
     "test-docker": "sudo docker-compose run sequelize /bin/sh -c \"make all\""
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "directories": {
     "doc": "docs",
     "lib": "lib",
